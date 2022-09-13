@@ -25,8 +25,6 @@ Here's a walkthrough of implemented features:
 
 ![](https://github.com/spyrothewhale/Wordle/blob/main/Wordle1.gif)
 
-<img src='http://i.imgur.com/a/t1i496j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 <!-- Other options include:
