@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features:
+
+![](https://github.com/spyrothewhale/Wordle/blob/main/Wordle1.gif)
 
 <img src='http://i.imgur.com/a/t1i496j' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
